@@ -1,0 +1,39 @@
+
+table {
+    border-collapse: collapse;
+    margin-left: 08%;
+    
+    background-image: url(isalm\ 2\ img.png);
+    background-repeat: no_repeat;
+    background-size: cover;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  table tr:hover {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    border: 1px solid #fff;
+  }
+  
+  table tr:hover td {
+    border: 1px solid #fff;
+  }
+  h1{
+    margin-right: 10%;
+  }
+  .pakistan{
+    width: 70%;
+  }
+  .logo{
+    margin-left: 65%;
+  }
+  .search{
+    width: 15%;
+    margin-left: 75%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 25px;
+  }
